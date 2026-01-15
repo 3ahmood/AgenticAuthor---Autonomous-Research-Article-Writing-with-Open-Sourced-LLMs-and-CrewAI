@@ -6,7 +6,7 @@ This repository provides a fully local, on-device framework for autonomous resea
 The architecture has been tested and validated using the following locally hosted open-source LLMs:
 
 * **Gemma 3 (12B)** – used for efficient reasoning, research automation, and high-quality content drafting
-* **GPT-OSS (20B)** – used for extracting advanced analytical reasoning, synthesis, and structured long-form content
+* **GPT-OSS (20B)** – used for extracting insights, advanced analytical reasoning, synthesis, and structured long-form content
   
 By running all models on-device, this project ensures data sovereignty, reproducibility, and secure AI workflows. Specialized AI agents collaborate to autonomously plan research tasks, collect and evaluate information, synthesize insights, and generate professional-grade written outputs. The modular design allows seamless model swapping, agent role customization, and workflow adaptation across domains.
 
