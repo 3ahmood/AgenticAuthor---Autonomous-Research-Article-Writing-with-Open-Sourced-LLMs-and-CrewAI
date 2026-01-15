@@ -1,4 +1,4 @@
-# AgenticAuthor---Autonomous-Research-Article-Writing-with-Open-Sourced-LLMs-and-CrewAI
+# AgenticAuthor-Multi-Agent-Autonomous-Research-Article-Writing-with-Open-Sourced-LLMs-and-CrewAI
 **On-device autonomous research and content writing with open-source LLMs and CrewAI.**
 
 This repository provides a fully local, on-device framework for autonomous research, analysis, and content generation using open-source large language models (LLMs) and multi-agent AI workflows. Built with CrewAI for agent orchestration and Ollama for local LLM inference, the system enables offline, privacy-first, and cost-predictable AI pipelines without reliance on cloud APIs.
